@@ -25,7 +25,7 @@ SECRET_KEY = "pWe9yO38KHUfxMyxv8hvCqxIopsvCEL1xgRCp7kA4pgvuzIU4b"
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['krea.fly.dev']
+ALLOWED_HOSTS = []
 
 
 # Application definition
